@@ -1,0 +1,15 @@
+html, body {
+    height: 100%;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.aqua {
+    background-color: aqua;
+}
